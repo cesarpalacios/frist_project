@@ -16,7 +16,7 @@ body .credit {
 }
 
 body .options {
-   display: none;
+   display: flex;
    flex-direction: row;
    align-items: stretch;
    overflow: hidden;
